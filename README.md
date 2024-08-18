@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Job Listings with Tags
 
 ## Overview
